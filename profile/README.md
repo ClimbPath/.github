@@ -23,9 +23,8 @@ The ClimbPath application is proprietary software. This GitHub organisation may 
 ## Explore ClimbPath
 
 - Website: https://climbpath.eu
-- About the project: https://climbpath.eu/en/about
-- Via ferrata guide: https://climbpath.eu/en/ferratas/guide
-- Contact: support@climbpath.eu
+- About the project: https://climbpath.eu/about
+- Via ferrata guide: https://climbpath.eu/ferratas/guide
 
 ## Contributing
 
